@@ -1,0 +1,2 @@
+Only use case diagrams and specifications are made in this document. 
+It is not yet in the report format! 

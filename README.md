@@ -2,6 +2,9 @@
 
 ![Image of PartyIcon](https://raw.githubusercontent.com/Teagrus/DSDTeaParty/main/resources/java-icon.svg)
 ## We are "TeaParty" and this is our home page!
+## Progress
+ - completed our SRS & communicated with others.
+ - Choose Spring as the framework for server.
 
 ## Our Roadmap
 There are some problems with Our roadmap. When it is fixed, it will be put on here. 

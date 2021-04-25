@@ -2,9 +2,12 @@
 
 ![Image of PartyIcon](https://raw.githubusercontent.com/Teagrus/DSDTeaParty/main/resources/java-icon.svg)
 ## We are "TeaParty" and this is our home page!
+## Progress
+ - completed our SRS & communicated with others.
+ - Choose Spring as the framework for server.
 
 ## Our Roadmap
-<img src="https://raw.githubusercontent.com/Teagrus/DSDTeaParty/main/resources/ganttv0.2.png" alt="drawing"/>
+There are some problems with Our roadmap. When it is fixed, it will be put on here. 
 
 ## Our Team members -
 ### ☕ Xin HU - the PM/System Architect
